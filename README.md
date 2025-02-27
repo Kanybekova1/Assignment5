@@ -85,4 +85,4 @@ Exiting the program. Thank you!
 
  ## UML Diagram
 
- ![alt text](<Снимок экрана 2025-02-26 200944-1.png>)
+![Снимок экрана 2025-02-26 200944](https://github.com/user-attachments/assets/6fa318c1-301b-4ff9-a872-bc036ab24a9e)
